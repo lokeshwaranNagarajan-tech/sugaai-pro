@@ -1,0 +1,1 @@
+// ESP32 soil monitoring firmware code here
